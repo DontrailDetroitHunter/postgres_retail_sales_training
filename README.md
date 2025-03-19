@@ -74,9 +74,9 @@ WHERE
 	cogs is null
 	or
 	total_sale is null;
--- alter table to correct quantiy to quantity --
+-- alter table to correct quantity to quantity --
 alter table retail_sales
-rename column quantiy to quantity;
+rename column quantity to quantity;
 
 select * from retail_sales;
 
