@@ -277,8 +277,8 @@ on-the-job training to exhibit I know the basics.
 Question 10 gave me experience in how to use a case statement to create a Postgres version of an if statement.
 Also in question 9, I'd only used distinct directly after the count. --(select distinct total_sale as an example.)-- In this scenario it was 
 --(count(distinct customer_id)-- I also was able to work on my problem-solving skills. I wrote the question and then I attempted to solve the questions
-on my own if I couldn't succeed. I learned that if you don't comprehend the question right, you can achieve what you're trying to do but, be completely wrong.
-Question 7 was very important to me, because it reiterated how to extract years and date time.
+on my own if I couldn't succeed, I went for help. I learned that if you don't comprehend the question right, you can achieve what you're trying to do but, be completely wrong.
+Question 7 was very important to me because it reiterated how to extract the year and current date time if needed.
 
 
 
